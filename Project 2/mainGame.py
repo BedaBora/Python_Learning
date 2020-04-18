@@ -1,3 +1,6 @@
+# Author- Bedabrata Bora
+# Project 2- A very Simple terminal game
+
 from classes.game import Character, Colors
 from classes.magic import Spell
 
